@@ -1,3 +1,1 @@
-# portfolio
-포트폴리오
-비슷한 구조의 프로젝트끼리 브랜치별로 모아놓았으며, 동작영상이 함께 첨부된 프로젝트는 README에 언급하였습니다.
+Visual Studio(C#)의 Winform을 이용하여 CRUD를 구현하였습니다.
