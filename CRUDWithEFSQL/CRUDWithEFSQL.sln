@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDWithEFSQL", "CRUDWithEFSQL\CRUDWithEFSQL.csproj", "{E6DE5E1F-6BEA-4F29-A155-513DAF1C07ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6DE5E1F-6BEA-4F29-A155-513DAF1C07ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6DE5E1F-6BEA-4F29-A155-513DAF1C07ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6DE5E1F-6BEA-4F29-A155-513DAF1C07ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6DE5E1F-6BEA-4F29-A155-513DAF1C07ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF5BAC3D-7ACA-4B30-97FB-BD4A74929582}
+	EndGlobalSection
+EndGlobal
