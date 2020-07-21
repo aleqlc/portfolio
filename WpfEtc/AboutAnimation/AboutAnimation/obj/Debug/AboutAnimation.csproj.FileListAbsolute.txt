@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\AboutAnimation\AboutAnimation\bin\Debug\AboutAnimation.exe.config
+C:\Users\user\source\repos\AboutAnimation\AboutAnimation\bin\Debug\AboutAnimation.exe
+C:\Users\user\source\repos\AboutAnimation\AboutAnimation\bin\Debug\AboutAnimation.pdb
+C:\Users\user\source\repos\AboutAnimation\AboutAnimation\obj\Debug\AboutAnimation.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AboutAnimation\AboutAnimation\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\AboutAnimation\AboutAnimation\obj\Debug\App.g.cs
+C:\Users\user\source\repos\AboutAnimation\AboutAnimation\obj\Debug\AboutAnimation_MarkupCompile.cache
+C:\Users\user\source\repos\AboutAnimation\AboutAnimation\obj\Debug\AboutAnimation_MarkupCompile.lref
+C:\Users\user\source\repos\AboutAnimation\AboutAnimation\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\AboutAnimation\AboutAnimation\obj\Debug\AboutAnimation.g.resources
+C:\Users\user\source\repos\AboutAnimation\AboutAnimation\obj\Debug\AboutAnimation.Properties.Resources.resources
+C:\Users\user\source\repos\AboutAnimation\AboutAnimation\obj\Debug\AboutAnimation.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AboutAnimation\AboutAnimation\obj\Debug\AboutAnimation.exe
+C:\Users\user\source\repos\AboutAnimation\AboutAnimation\obj\Debug\AboutAnimation.pdb

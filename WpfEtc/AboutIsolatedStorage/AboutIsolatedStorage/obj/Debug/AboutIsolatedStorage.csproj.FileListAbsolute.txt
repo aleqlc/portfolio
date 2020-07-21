@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\AboutIsolatedStorage\AboutIsolatedStorage\bin\Debug\AboutIsolatedStorage.exe.config
+C:\Users\user\source\repos\AboutIsolatedStorage\AboutIsolatedStorage\bin\Debug\AboutIsolatedStorage.exe
+C:\Users\user\source\repos\AboutIsolatedStorage\AboutIsolatedStorage\bin\Debug\AboutIsolatedStorage.pdb
+C:\Users\user\source\repos\AboutIsolatedStorage\AboutIsolatedStorage\obj\Debug\AboutIsolatedStorage.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AboutIsolatedStorage\AboutIsolatedStorage\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\AboutIsolatedStorage\AboutIsolatedStorage\obj\Debug\App.g.cs
+C:\Users\user\source\repos\AboutIsolatedStorage\AboutIsolatedStorage\obj\Debug\AboutIsolatedStorage_MarkupCompile.cache
+C:\Users\user\source\repos\AboutIsolatedStorage\AboutIsolatedStorage\obj\Debug\AboutIsolatedStorage_MarkupCompile.lref
+C:\Users\user\source\repos\AboutIsolatedStorage\AboutIsolatedStorage\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\AboutIsolatedStorage\AboutIsolatedStorage\obj\Debug\AboutIsolatedStorage.g.resources
+C:\Users\user\source\repos\AboutIsolatedStorage\AboutIsolatedStorage\obj\Debug\AboutIsolatedStorage.Properties.Resources.resources
+C:\Users\user\source\repos\AboutIsolatedStorage\AboutIsolatedStorage\obj\Debug\AboutIsolatedStorage.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AboutIsolatedStorage\AboutIsolatedStorage\obj\Debug\AboutIsolatedStorage.exe
+C:\Users\user\source\repos\AboutIsolatedStorage\AboutIsolatedStorage\obj\Debug\AboutIsolatedStorage.pdb

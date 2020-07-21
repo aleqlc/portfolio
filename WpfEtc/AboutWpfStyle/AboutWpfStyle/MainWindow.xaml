@@ -1,0 +1,46 @@
+﻿<Window x:Class="AboutWpfStyle.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AboutWpfStyle"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style x:Key="MyTextStyle">
+            <Setter Property="TextBlock.Background" Value="Black"/>
+            <Setter Property="TextBlock.Foreground" Value="White"/>
+            <Setter Property="TextBlock.HorizontalAlignment" Value="Center"/>
+        </Style>
+        <Style x:Key="MyTextStyle2" BasedOn="{StaticResource MyTextStyle}">
+            <Setter Property="TextBlock.Foreground" Value="Red"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="Blue"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="true">
+                    <Setter Property="Background" Value="Red"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <StackPanel>
+        <!--직접 속성을 명시-->
+        <TextBlock Background="Black" Foreground="White" HorizontalAlignment="Center">직접 명시</TextBlock>
+        <!--서브요소 스타일 이용-->
+        <TextBlock>
+            <TextBlock.Style>
+                <Style>
+                    <Setter Property="TextBlock.Background" Value="Black"/>
+                    <Setter Property="TextBlock.Foreground" Value="White"/>
+                    <Setter Property="TextBlock.HorizontalAlignment" Value="Center"/>
+                </Style>
+            </TextBlock.Style>
+            서브요소 스타일 이용
+        </TextBlock>
+        <TextBlock Style="{StaticResource MyTextStyle}">리소스 스타일 이용</TextBlock>
+        <TextBlock Style="{StaticResource MyTextStyle2}">리소스 스타일 재정의 이용</TextBlock>
+        <TextBlock x:Name="DemoText">버튼을 누르면 스타일이 변경됨</TextBlock>
+        <Button Click="Button_Click">확인</Button>
+    </StackPanel>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\AboutUIAutomationInvoke\AboutUIAutomationInvoke\bin\Debug\AboutUIAutomationInvoke.exe.config
+C:\Users\user\source\repos\AboutUIAutomationInvoke\AboutUIAutomationInvoke\bin\Debug\AboutUIAutomationInvoke.exe
+C:\Users\user\source\repos\AboutUIAutomationInvoke\AboutUIAutomationInvoke\bin\Debug\AboutUIAutomationInvoke.pdb
+C:\Users\user\source\repos\AboutUIAutomationInvoke\AboutUIAutomationInvoke\obj\Debug\AboutUIAutomationInvoke.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AboutUIAutomationInvoke\AboutUIAutomationInvoke\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\AboutUIAutomationInvoke\AboutUIAutomationInvoke\obj\Debug\App.g.cs
+C:\Users\user\source\repos\AboutUIAutomationInvoke\AboutUIAutomationInvoke\obj\Debug\AboutUIAutomationInvoke_MarkupCompile.cache
+C:\Users\user\source\repos\AboutUIAutomationInvoke\AboutUIAutomationInvoke\obj\Debug\AboutUIAutomationInvoke_MarkupCompile.lref
+C:\Users\user\source\repos\AboutUIAutomationInvoke\AboutUIAutomationInvoke\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\AboutUIAutomationInvoke\AboutUIAutomationInvoke\obj\Debug\AboutUIAutomationInvoke.g.resources
+C:\Users\user\source\repos\AboutUIAutomationInvoke\AboutUIAutomationInvoke\obj\Debug\AboutUIAutomationInvoke.Properties.Resources.resources
+C:\Users\user\source\repos\AboutUIAutomationInvoke\AboutUIAutomationInvoke\obj\Debug\AboutUIAutomationInvoke.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AboutUIAutomationInvoke\AboutUIAutomationInvoke\obj\Debug\AboutUIAutomationInvoke.exe
+C:\Users\user\source\repos\AboutUIAutomationInvoke\AboutUIAutomationInvoke\obj\Debug\AboutUIAutomationInvoke.pdb

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\AboutDataBindingWithDataTable\AboutDataBindingWithDataTable\bin\Debug\AboutDataBindingWithDataTable.exe.config
+C:\Users\user\source\repos\AboutDataBindingWithDataTable\AboutDataBindingWithDataTable\bin\Debug\AboutDataBindingWithDataTable.exe
+C:\Users\user\source\repos\AboutDataBindingWithDataTable\AboutDataBindingWithDataTable\bin\Debug\AboutDataBindingWithDataTable.pdb
+C:\Users\user\source\repos\AboutDataBindingWithDataTable\AboutDataBindingWithDataTable\obj\Debug\AboutDataBindingWithDataTable.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AboutDataBindingWithDataTable\AboutDataBindingWithDataTable\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\AboutDataBindingWithDataTable\AboutDataBindingWithDataTable\obj\Debug\App.g.cs
+C:\Users\user\source\repos\AboutDataBindingWithDataTable\AboutDataBindingWithDataTable\obj\Debug\AboutDataBindingWithDataTable_MarkupCompile.cache
+C:\Users\user\source\repos\AboutDataBindingWithDataTable\AboutDataBindingWithDataTable\obj\Debug\AboutDataBindingWithDataTable_MarkupCompile.lref
+C:\Users\user\source\repos\AboutDataBindingWithDataTable\AboutDataBindingWithDataTable\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\AboutDataBindingWithDataTable\AboutDataBindingWithDataTable\obj\Debug\AboutDataBindingWithDataTable.g.resources
+C:\Users\user\source\repos\AboutDataBindingWithDataTable\AboutDataBindingWithDataTable\obj\Debug\AboutDataBindingWithDataTable.Properties.Resources.resources
+C:\Users\user\source\repos\AboutDataBindingWithDataTable\AboutDataBindingWithDataTable\obj\Debug\AboutDataBindingWithDataTable.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AboutDataBindingWithDataTable\AboutDataBindingWithDataTable\obj\Debug\AboutDataBindingWithDataTable.exe
+C:\Users\user\source\repos\AboutDataBindingWithDataTable\AboutDataBindingWithDataTable\obj\Debug\AboutDataBindingWithDataTable.pdb

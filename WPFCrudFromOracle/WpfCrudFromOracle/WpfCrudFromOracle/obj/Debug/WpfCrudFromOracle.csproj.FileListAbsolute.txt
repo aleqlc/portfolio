@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\WpfCrudFromOracle\WpfCrudFromOracle\bin\Debug\WpfCrudFromOracle.exe.config
+C:\Users\user\source\repos\WpfCrudFromOracle\WpfCrudFromOracle\bin\Debug\WpfCrudFromOracle.exe
+C:\Users\user\source\repos\WpfCrudFromOracle\WpfCrudFromOracle\bin\Debug\WpfCrudFromOracle.pdb
+C:\Users\user\source\repos\WpfCrudFromOracle\WpfCrudFromOracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\user\source\repos\WpfCrudFromOracle\WpfCrudFromOracle\obj\Debug\WpfCrudFromOracle.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WpfCrudFromOracle\WpfCrudFromOracle\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\WpfCrudFromOracle\WpfCrudFromOracle\obj\Debug\App.g.cs
+C:\Users\user\source\repos\WpfCrudFromOracle\WpfCrudFromOracle\obj\Debug\WpfCrudFromOracle_MarkupCompile.cache
+C:\Users\user\source\repos\WpfCrudFromOracle\WpfCrudFromOracle\obj\Debug\WpfCrudFromOracle_MarkupCompile.lref
+C:\Users\user\source\repos\WpfCrudFromOracle\WpfCrudFromOracle\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\WpfCrudFromOracle\WpfCrudFromOracle\obj\Debug\WpfCrudFromOracle.g.resources
+C:\Users\user\source\repos\WpfCrudFromOracle\WpfCrudFromOracle\obj\Debug\WpfCrudFromOracle.Properties.Resources.resources
+C:\Users\user\source\repos\WpfCrudFromOracle\WpfCrudFromOracle\obj\Debug\WpfCrudFromOracle.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WpfCrudFromOracle\WpfCrudFromOracle\obj\Debug\WpfCrudFromOracle.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WpfCrudFromOracle\WpfCrudFromOracle\obj\Debug\WpfCrudFromOracle.csproj.CopyComplete
+C:\Users\user\source\repos\WpfCrudFromOracle\WpfCrudFromOracle\obj\Debug\WpfCrudFromOracle.exe
+C:\Users\user\source\repos\WpfCrudFromOracle\WpfCrudFromOracle\obj\Debug\WpfCrudFromOracle.pdb
