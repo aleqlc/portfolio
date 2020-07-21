@@ -1,0 +1,2 @@
+C:\Program Files\MySQL\MySQL Server 8.0\bin>mysqldump -uroot -p opentutorials topic_backup>c:\Users\user\Desktop\mysqldump.sql
+Enter password: ****
