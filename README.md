@@ -1,3 +1,1 @@
-# portfolio
-포트폴리오
-비슷한 구조의 프로젝트끼리 브랜치별로 모아놓았으며, 동작영상이 함께 첨부된 프로젝트는 README에 언급하였습니다.
+Visual studio(C#)의 WebAPI를 이용하여 Json으로 데이터를 주고받는 CRUD프로그램입니다. 동작테스트는 Postman 또는 swagger로 하였습니다.
