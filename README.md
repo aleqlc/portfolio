@@ -10,7 +10,7 @@ CreateJWT : Core, API사용, postman이나 브라우저에서 user, pass같이 �
 
 JWTAuthDemo : 실행잘됨. Core, API사용.  crud는 아직없음. 동작영상있음
 
-WebAPIMvcJWT : .NETFramework, API, MVC사용, 브라우저에서 Token은 얻어지는데 postman에서 NullReferenceException뜸
+WebAPIMvcJWT : .NETFramework, API, MVC사용, 브라우저에서 Token은 얻어지는데 postman에서 NullReferenceException뜸<br/>
 
 
 Token 인증과 관련한 프로젝트들이며, 모두 별개의 프로젝트들입니다.
