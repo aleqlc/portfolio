@@ -1,0 +1,15 @@
+﻿@{ 
+    Layout = null;
+}
+
+@using DIpractice.Services
+
+@inject CopyrightService CopyrightService
+
+<p>
+    &copy; @CopyrightService.CopyrightString
+</p>
+
+<p>
+    &copy; @CopyrightService.GetCopyrightString()
+</p>
