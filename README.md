@@ -4,4 +4,4 @@
 
 동작영상 mp4파일도 각 branch에 프로젝트와 함께 올렸습니다. <br/>
 동작영상 구글드라이브 주소 : https://drive.google.com/drive/folders/19pNjJXSUezugrvQiGOarBe9tkltoYqaO?usp=sharing<br/>
-동작영상 파일명은 해당 프로젝트명과 같습니다.....
+동작영상 파일명은 해당 프로젝트명과 같습니다..
