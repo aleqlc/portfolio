@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InotifyPracticeWinform", "InotifyPracticeWinform\InotifyPracticeWinform.csproj", "{285894DC-280C-4FD8-8C1C-7CD3F5664721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{285894DC-280C-4FD8-8C1C-7CD3F5664721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285894DC-280C-4FD8-8C1C-7CD3F5664721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285894DC-280C-4FD8-8C1C-7CD3F5664721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285894DC-280C-4FD8-8C1C-7CD3F5664721}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {140691B1-D8B1-44B0-A1CB-4818E90F6A77}
+	EndGlobalSection
+EndGlobal
