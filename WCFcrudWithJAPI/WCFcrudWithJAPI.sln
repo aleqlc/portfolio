@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFcrudWithJAPI", "WCFcrudWithJAPI\WCFcrudWithJAPI.csproj", "{442CF2CA-8775-4FC2-B7B0-4C41C5F6BB30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFcrudWithJAPI_Client", "WCFcrudWithJAPI_Client\WCFcrudWithJAPI_Client.csproj", "{6FBF5205-7F01-451E-A4AE-1CBC471B2D15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{442CF2CA-8775-4FC2-B7B0-4C41C5F6BB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442CF2CA-8775-4FC2-B7B0-4C41C5F6BB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442CF2CA-8775-4FC2-B7B0-4C41C5F6BB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442CF2CA-8775-4FC2-B7B0-4C41C5F6BB30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FBF5205-7F01-451E-A4AE-1CBC471B2D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBF5205-7F01-451E-A4AE-1CBC471B2D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBF5205-7F01-451E-A4AE-1CBC471B2D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBF5205-7F01-451E-A4AE-1CBC471B2D15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FAD4063-8F3C-4BE1-B9F7-A53000D51F7B}
+	EndGlobalSection
+EndGlobal
