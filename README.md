@@ -1,4 +1,4 @@
-WCFcrudWithJAPI : WCF를 이용한 CRUD. ADD가 동작안됨
+WCFcrudWithJAPI : WCF를 이용한 CRUD. API사용. ADD가 동작안됨
 
 WcfService1 : WCF를 이용한 CRUD. CRUD 모두 동작됨
 
