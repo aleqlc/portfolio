@@ -1,0 +1,71 @@
+﻿
+@{
+    ViewBag.Title = "Add_record";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Add_record</title>
+    <!--<link href="~/bootstrap.min.css" rel="stylesheet" />-->
+</head>
+<body>
+    <div>
+        <form method="post">
+            <div class="form-group">
+                <label class="col-sm-3 control-label no-padding-right">Name</label>
+
+                <div class="col-sm-9">
+                    <input type="text" name="Name" class="col-xs-10 col-sm-8" />
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-sm-3 control-label no-padding-right">Address</label>
+
+                <div class="col-sm-9">
+                    <input type="password" name="Address" class="col-xs-10 col-sm-8" />
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-sm-3 control-label no-padding-right">City</label>
+
+                <div class="col-sm-9">
+                    <input type="text" name="City" class="col-xs-10 col-sm-8" />
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-sm-3 control-label no-padding-right">Pin Code</label>
+
+                <div class="col-sm-9">
+                    <input type="text" name="pin" class="col-xs-10 col-sm-8" />
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-sm-3 control-label no-padding-right">Designation</label>
+
+                <div class="col-sm-9">
+                    <input type="text" name="designation" class="col-xs-10 col-sm-8" />
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-sm-9">
+                    <input type="submit" value="Submit" class="btn btn-primary"/>
+                </div>
+            </div>
+        </form>
+    </div>
+    @{ 
+        if (TempData["msg"] != null)
+        {
+            <script>alert('@TempData["msg"]')</script>
+        }
+    }
+</body>
+</html>
+
