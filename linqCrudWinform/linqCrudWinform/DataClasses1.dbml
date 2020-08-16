@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="LinqDB" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-A5HOU30;Initial Catalog=LinqDB;Integrated Security=True" SettingsObjectName="linqCrudWinform.Properties.Settings" SettingsPropertyName="LinqDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.MyInfoTab" Member="MyInfoTabs">
+    <Type Name="MyInfoTabs">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Age" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
